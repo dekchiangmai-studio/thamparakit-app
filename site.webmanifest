@@ -1,0 +1,19 @@
+{
+  "name": "THAMPARAKIT — Gamified Real-World Questing App",
+  "short_name": "THAMPARAKIT",
+  "description": "เปลี่ยนชีวิตจริงให้เป็นการผจญภัย Gamified Real-World Questing App",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d16",
+  "theme_color": "#080d16",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
